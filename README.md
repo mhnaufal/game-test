@@ -9,7 +9,7 @@
 Below are my try to solve the questions. Even though I'm only finish some of them, I have tried my best 😁
 
 ### Q1-Q4
-**Commit:**		[text](link)
+**Commit:**		[Q1-Q4]([link](https://github.com/mhnaufal/game-test/commit/6fc1c1860553d7ca4c9d9deacda564c52468701d))
 
 ### Q5
 _Sorry but I didn't manage to solve this_
@@ -18,7 +18,9 @@ _Sorry but I didn't manage to solve this_
 _Sorry but I didn't manage to solve this_
 
 ### Q7
-**Commit:**		[text](link)
+_It's not done yet also_
+
+**Commit:**		[Q7](https://github.com/mhnaufal/game-test/commit/007c1217c0f7a4ad92c81991c49b6873a92ccd97)
 
 **Video:**		![Q7](q7.gif)
 
